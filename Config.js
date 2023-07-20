@@ -1,6 +1,6 @@
 const { ButtonStyle } = require("discord.js");
 module.exports = {
-    Token: "",// enter your token
+    Token: "token",// enter your token
     Prefix: ".", // prefix here
     Client: {
         ID: "1117187758105043015", // client id
